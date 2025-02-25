@@ -5,22 +5,33 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-Software engineering is the process of designing, developing, testing and maintaining software applications. It is important in ensuring that software is reliable, efficient and affordable which is crucial for businesses to operate effectively in today's digital world. It essentially translates complex problems into functional software solutions through a systematic process, including thorough planning, testing, and quality assurance. 
+-Software engineering is the process of designing, developing, testing and maintaining software applications. It is important in ensuring that software is reliable, efficient and affordable which is crucial for businesses to operate effectively in today's digital world. It essentially translates complex problems into functional software solutions through a systematic process, including thorough planning, testing, and quality assurance. 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
-
+1. Preliminary study- It is abrief investigation of the system under consideration and gives a clear picture of what the system actually is.
+2. Feasibilty study. It is the test of the proposed system in the light of its workability, meeting users requirements, effective use of resources and the cost effectiveness,
+3. Detailed System Study- involes detailed study of various operations performed by asystem and and their relationships within and outside the system.
+4. System Analysis- It the process of collecting factual data, understand the processes involved, identifying problems and recommending feasible suggestions for imroving the system functioning.
+5. System design- Here the faetures of the new systm are specified which includews cost of implementing and the benefits to be derived being estimated afte which the design of the sytem becomes structured.
+6. Coding- Her the programmer converts the program specifications into computer instructions. The programs coordinate the data movemets and control the entire process in a system
+7. Testing- A test run is done for removing the bugs if any on a given set of test data through a test plan
+8. Impementation- This is the stage where theory is turned into practice through acquisition and installation of Hardware and Software, conversion, user training and documentation 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-
+-Waterfall is a linear, sequential approach to project management where each phase must be complleted before moving to the next which is best for well defined stable projects while agile methodology is an iterative, flexible approach that emphasizes collaboration, contionuous feedback and incremental progress and is best for dynamic evolving projects
+-Waterfall model is appropriate for projects with well defined and stable requirements, regulatory or compliance driven projects, construction or manufacturing projects where cahnges are costly an millitary or aerospace projects with strict documentation needs.
+-Agile is appropriate for software where requirementsmay evolve, startups developing Minimum Viable Products (MVPs), digital marketing campaigns requiring constant optimization and game development where user feedback is essential
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-
+-A software developer designs, develops and maintains software applications and is reponsible for writing clean, efficient and maintainable code, debugging and troubleshooting issues in the software, implement new features based on business requirements and optimizeing application performance and security.
+-A quality Assuarance engineer ensures the software meets quality standards before release and is responsible for developing test plans, test cases and automated testing scripts, identifying, reporting and tracking bugs and defects, conducting functional, regression and performance testing, ensuring defects are fixed and improving testing processes and maintaining quality standards.
+-The project manager oversees the software development process, ensuring projects are completd on time and within budget. He defines project scope goals and deliverables, create and manage project timelines and deliverables, creates and manages project timelines and milestones, allocates resources and assigns tasks to team members and idetifies and mitigates project risks
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-
+Integrated Development Environments boost productivity by providing code completion, syntax highlighting and debugging tools, code management by helpng organize
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
